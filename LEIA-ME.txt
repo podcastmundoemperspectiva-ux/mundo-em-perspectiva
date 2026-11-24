@@ -1,0 +1,8 @@
+SITE MUNDO EM PERSPECTIVA PODCAST
+Carregar os ficheiros todos na raiz do repositório GitHub:
+- index.html
+- style.css
+- logotipo-oficial.png
+- capa-oficial.jpg
+- LEIA-ME.txt (apenas informativo)
+Esta versão não utiliza pasta assets.
